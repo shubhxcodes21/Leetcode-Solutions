@@ -1,1 +1,1 @@
-This repo congtains my leetcode solutions
+This repo contains my leetcode solutions
